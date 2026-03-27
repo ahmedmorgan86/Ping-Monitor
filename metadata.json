@@ -1,0 +1,5 @@
+{
+  "name": "Neon Ping Monitor",
+  "description": "An autonomous network discovery and analysis dashboard. Automatically detects local devices and monitors latency in real-time with high-fidelity technical aesthetics.",
+  "requestFramePermissions": []
+}
